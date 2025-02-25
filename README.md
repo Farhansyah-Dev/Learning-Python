@@ -1,5 +1,5 @@
 # Learning-Python
-Membuat Sesuatu Program Dengan Python
+Membuat suatu program dengan menggunakan bahasa pemrograman PYTHON
 
 Repositori ini dibuat untuk saya belajar Bahasa pemrograman Python
 Saya akan mulai dengan fundamental dasar pemrograman
